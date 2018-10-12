@@ -63,3 +63,7 @@ If the content overflows the Y-axis, then that content will be hidden, whilst a 
 #### More Information:
 
 CSS-Tricks: <a href='https://css-tricks.com/almanac/properties/o/overflow/' target='_blank' rel='nofollow'>overflow</a>
+W3 Schools: <a href='https://www.w3schools.com/cssref/pr_pos_overflow.asp' target='_blank' rel='nofollow'>overflow</a>
+W3 Schools: <a href='https://www.w3schools.com/cssref/css3_pr_overflow-x.asp' target='_blank' rel='nofollow'>overflow-x</a>
+W3 Schools: <a href='https://www.w3schools.com/cssref/css3_pr_overflow-y.asp' target='_blank' rel='nofollow'>overflow-y</a>
+
